@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>KANAGARAJ RESUME</title>
+<style>
+table{
+margin:70px;
+}
+a{
+text-decoration:none;
+}
+a:hovor{
+background-color:black;
+}
+td{
+text-align:center;
+
+}
+
+ul{
+padding-left:35px;
+
+}
+img{
+ padding-left:20px;
+ padding-top:20px;
+}
+div{
+
+
+
+}
+h1{
+color:white;
+text-shadow:3px 2px black;
+background:#6495ED;
+}
+#mariraj{
+width:70%;
+float:left;
+
+min-height:100%;
+
+}
+#kanagaraj{
+width:30%;
+float:right;
+}
+h3{
+color:white;
+background:#6495ED;
+
+text-shadow:3px 2px black;
+
+}
+
+
+
+
+</style>
+</head>
+<body>
+<div>
+<div id="mariraj">
+<br>
+<br>
+<br>
+<br>
+<h1>KANAGARAJ M</h1>
+<p><b>Contact No:</b> +91 9500618317<br>
+<b>E-Mail ID:</b> <a href=# target=blank >2001kanagaraj@gmail.com</a><br>
+<b>Location:</b> Tenkasi, Tamil Nadu, India.
+</p>
+<br>
+<br>
+<hr>
+<h3>CAREER OBJECTIVE:</h3>
+<hr>
+<p>
+I’m a Mechanical engineering student with good
+communication, technical skill sets and multidisciplinary knowledge.
+Looking forward for a role in a well reputed company, to make use
+of my interpersonal skills to achieve goals of the company that focuses
+on client satisfaction and company’s growth.
+</p>
+<br>
+<br>
+<br>
+<hr>
+
+<h3>EDUCATIONAL BACKGROUND:</h3>
+<hr>
+<table border="solid">
+<tr>
+<td><b>Class</b></td>
+<td><b>College/School</b></td>
+<td><b>Year</b></td>
+<td><b>Percentage/CGPA</b></td>
+
+</tr>
+<tr>
+<td><abbr title="bachelor of engineering">B.E</abbr> <abbr title="mechanical engineering">MECH</abbr></td>
+<td></abbr> <abbr title="Coimbatore Institute of Technology">CIT</abbr>,Coimbatore</td>
+<td>2018-2022</td>
+<td>7.93</td>
+</tr>
+<tr>
+<td>HSE</td>
+<td><abbr title="Masood Thaika Higher Secondary School">MTHSS</abbr>,Kadayanallur</td>
+<td>2018</td>
+<td>82.75%</td>
+</tr>
+
+<tr>
+<td>SSLC</td>
+<td><abbr title="Masood Thaika Higher Secondary School">MTHSS</abbr>,Kadayanallur</td>
+<td>2016</td>
+<td>91.2%</td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<hr>
+<h3>EXPERIENCE/INTERNSHIP:</h3>
+<hr>
+<ul>
+<li>Ramco Cements Limited,</li>
+<li>Virtual internship program, Roots Industries India limited.</li>
+</ul>
+<br>
+<br>
+<br>
+<hr>
+<h3>PROJECT DETAILS:</h3>
+<hr>
+<ul>
+<li>Study of fatigue property of Aluminium matrix composites with zirconia And graphite reinforcement</li>
+<li><b>Development of IoT Enabled CNC Machine:</b><br>
+This is our mini project which focused on to control the CNC Machine with The help of advanced IoT Based Systems.</li>
+<li><b>AQUA Silencer:</b><br>
+Aqua silencer deals with control of emission and noise in automobile Exhaust which is achieved by using activated charcoal, perforated tube And outer shell.</li>
+</ul>
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>
+<div id="kanagaraj">
+<img src="C:\Users\2156989\OneDrive - TCS COM PROD\Pictures\Screenshots\Screenshot(41).png" height="150px" width="150px" title="kanagaraj profile photo" alter="kanagu">
+<h3>AREA OF INTEREST:</h3>
+<hr>
+<ul>
+<li>Strenth of materials</li>
+<li>Thermodynamics</li>
+<li>engineering drawing</li>
+</ul>
+<h3>SOFTWARE SKILLS:</h3>
+<hr>
+<ul>
+<li>C Programming</li>
+<li>C++</li>
+<li>AutoCAD</li>
+<li>Solidworks</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>SQL</li>
+<li>JAVA</li>
+<li>Python</li>
+</ul>
+<h3>PROFESSIONAL SKILLS:</h3>
+<hr>
+<ul>
+<li>Good analytical and communication skills</li>
+<li>Good in solo as well as team works.</li>
+<li>Project management</li>
+<li>Leadership skills</li>
+</ul>
+<h3>EXTRA-CURRICULAR ACTIVITES:</h3>
+<hr>
+<ul>
+<li>Active NSS, Dramatix, YHAI club member.</li>
+<li>Organized Seedball event.</li>
+<li>Participated All NSS Events.</li>
+<li>Organized RC Track Event in
+Mechnotron-2020.</li>
+<li>Event Conveyor in
+Mechnotron-2021.</li>
+<li>Treasurer in
+YHAI Club (CIT)-2021.</li>
+</ul>
+
+<h3>AWARDS| Extra curricular:</h3>
+<hr>
+<ul>
+<li>Active Member in NSS Award 2019(CIT)</li>
+</ul>
+
+<h3>LANGUAGE KNOWN:</h3>
+<hr>
+<p>English,Tamil</p>
+</div>
+
+</div>
+</body>
+</html>
+

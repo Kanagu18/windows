@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+#m{
+color:#000000;
+}
+.bg-1{
+background:#1abc9c;
+color:#ffffff;
+}
+.bg-2{
+background:#474e5d;;
+color:#ffffff;
+}
+.bg-3{
+background:#ffffff;
+color:#555555;
+}
+.container-fluid{
+padding-top:70px;
+padding-bottom:70px;
+}
+
+.navbar {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  font-size: 12px;
+  letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+  color: #1abc9c !important;
+}
+.navbar-header a:hover {
+  color: #1abc9c !important;
+}
+.bg-4 {
+  background-color: #2f2f2f;
+  color: #ffffff;
+}
+p {
+font-size: 16px;
+}
+body {
+  font: 20px "Montserrat", sans-serif;
+  line-height: 1.8;
+  color: #f5f6f7;
+}
+
+</style>
+  <title>kanagu web page</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+      <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Kanagu</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">WHO</a></li>
+        <li><a href="#">WHAT</a></li>
+        <li><a href="#">WHERE</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<div class="container-fluid bg-1 text-center">
+<h3>WHO AM I?</h3>
+<img src="passport.png" alt="kanagu" class="img-circle" title="kanagu photo">
+<h3><B>K A N A G A R A J   <span id="m">M</span></B></h3><br>
+<p>(<i>Assistant System Engineer Trainee at <b>TATA Consultancy Services Ltd.</b></i>)<br>
+<i>Aug-29'2022-Present</i>
+</p>
+</div>
+
+<div class="container-fluid bg-2 text-center">
+<h3>What Am I?</h3>
+<p>I’m a final year Mechanical engineering student with good
+communication, technical skill sets and multidisciplinary knowledge.
+Looking forward for a role in a well reputed company, to make use
+of my interpersonal skills to achieve goals of the company that focuses
+on client satisfaction and company’s growth.</p>
+<button class="btn btn-default btn-lg"><span class="glyphicon glyphicon-search"></span>Search</button>
+</div>
+<div class="container-fluid bg-3 text-center">
+<h3>Where To Find Me?</h3>
+<p><b>KANAGARAJ M</b><br>
+<b>Contact No.:</b> +91 – 9500618317<br>
+<b>E-Mail ID:</b> 2001kanagaraj@gmail.com<br> <b>Location:</b> Tenkasi, Tamil nadu, India.</p><br><br><br><br>
+<div class="row">
+    <div class="col-sm-4">
+      <p>I Completed my SSLC
+ at Masood Thaila Higher Secondary School,
+Kadayanallur-627751, in the year 
+ 2016 with
+91.2%</p><br>
+      <img src="passport.png" alt="Image">
+    </div>
+    <div class="col-sm-4">
+      <p>I Completed my HSE
+ at Masood Thaila Higher Secondary School,
+Kadayanallur-627751, in the year 
+ 2018 with
+82.75%</p><br>
+      <img src="passport.png" alt="Image">
+    </div>
+    <div class="col-sm-4">
+      <p>I Completed my B.E Mechanical Engineering Degree
+ at Coimbatore Institute of Technology,
+Coimbatore-641 014, in the year 
+ 2022 with
+7.92 CGPA</p>
+      <img src="passport.png" alt="Image">
+    </div>
+  </div>
+</div>
+<footer class="container-fluid bg-4 text-center">
+  <p>Sample Web Page Made By <a href="#">www.Kanagu18.com</a></p>
+</footer>
+
+
+</body>
+</html>

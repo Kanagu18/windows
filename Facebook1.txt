@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+a{
+color:white;
+}
+
+#top{
+color:white;
+background:#6495ED;
+}
+
+</style>
+  <title>Kanagu-Facebook</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container-fluid" id="top">
+  <div class="row">
+  <div class="col-sm-6"><h1><b>Facebook</b></h1></div>
+  <div class="col-sm-6">
+  <form>
+    <div class="form-group row">
+      <div class="col-xs-4">
+        <label for="ex1">Email or phone </label>
+        <input class="form-control" id="ex1" type="text">
+      </div>
+      <div class="col-xs-4">
+        <label for="ex2">Password</label>
+        <input class="form-control" id="ex2" type="password"><br>
+        <a href=# style="color:white;">forgot password?</a>
+      </div> 
+      <br>
+      <button type="button" class="btn btn-primary btn-md"><b>Log In</b></button>
+      </div>
+      </div>
+      </form>
+  </div>
+</div>
+
+</div>
+<div class="container-fluid">
+<div class="row">
+  <div class="col-sm-6"><h3>Facebook helps you connect and share with the people in your life</h3>
+  <img src="facebook.jpg" class="img-rounded" alt="facebook connect people photo" width=40 height=40>
+  
+  
+  </div>
+  <div class="col-sm-6"><h1><b>Create an account</b></h1>
+  <h3>It's quick and easy.</h3>
+  <input type="text" placeholder="First name">     <input type="text" placeholder="Surname"><br><br>
+  <input placeholder="Mobile number or email address" size="46" type="text"><br><br>
+  <input placeholder="New password" size="46" type="text"><br><br>
+  <label for="ex1">Birthday</label><br>
+        <input type="date"><span class="badge">?</span><br><br>
+        <label for="ex1">Gender</label><br>
+        <form>
+    <label class="radio-inline">
+      <input type="radio" name="optradio" checked>Male
+    </label>
+    <label class="radio-inline">
+      <input type="radio" name="optradio">Female
+    </label>
+    <label class="radio-inline">
+      <input type="radio" name="optradio">Custom
+    </label>
+    <span class="badge">?</span>
+  </form><br>
+  <p>By clicking Sign Up, you agree to our Terms, Data Policy and Cookie Policy. you may receive SMS notifications from us and can opt out any time.</p>
+  <button type="button" class="btn btn-success  active">Sign Up</button>
+  </div>
+  
+  </div>
+</div>
+</div>
+</body>
+</html>
